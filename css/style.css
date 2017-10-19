@@ -1,6 +1,9 @@
 /**/
 .country {
-    fill: #cccccc;
+    /* fill: #cccccc; */
     stroke: #9e9d9d;
     stroke-width: 1px;
+}
+.selected {
+    opacity: 0.5
 }
